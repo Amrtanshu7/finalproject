@@ -13,7 +13,7 @@ function Footer() {
           <Row>
             <Col>
               <p>
-                The Internet Computer's largest digital marketplace for crypto
+                Cryptum , The Internet Computer's largest digital marketplace for crypto
                 collectibles and non-fungible tokens (NFTs). Buy, sell, and
                 discover exclusive digital items.
               </p>
